@@ -1,6 +1,6 @@
 Social Media - Hive
 ====================
-This repo contains data set and queries I use in my social media project for data analysis using the HIVE.
+This repo contains data set and queries I used in my social media project for data analysis using the HIVE.
 
 Files in the repository
 =======================
